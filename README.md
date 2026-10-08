@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/aequison-hero.svg" alt="AEQUISON original conceptual aerospace research banner" width="100%"></p>
+
 # AEQUISON
 ### AEQ-1 | Independent Aerospace Research Program
 
@@ -17,6 +19,13 @@ AEQUISON is an independent team-based aerospace research initiative investigatin
 - [Project website source](index.html)
 
 ## Research workstreams
+
+| Aerodynamic research | Structures and materials | Flight dynamics |
+| --- | --- | --- |
+| ![Stylized flow visualization](assets/research-flow.svg) | ![Illustrative structural mesh](assets/research-structures.svg) | ![Illustrative dynamics plot](assets/research-dynamics.svg) |
+
+*Original conceptual illustrations; none depict verified AEQUISON aircraft, CFD, FEA, or flight-test results.*
+
 1. Atmosphere and aerodynamic modeling, including public transonic experimental benchmarks
 2. Wing architecture literature studies, including the costs of variable sweep
 3. Structural and materials research
