@@ -11,6 +11,7 @@ AEQUISON is an independent team-based aerospace research and experimental develo
 
 ## Project navigation
 - [Research program](docs/RESEARCH.md)
+- **[AEQ-AER-001 — Transonic Aerodynamics Literature Review](docs/research/AEQ-AER-001-Transonic-Aerodynamics-Literature-Review.md)** *(Rev 0.1, draft; independent review pending)*
 - [Development lifecycle and engineering gates](docs/DEVELOPMENT.md)
 - [Subsystem research index](docs/SUBSYSTEMS.md)
 - [Development and experiment log](docs/BUILD_LOG.md)
