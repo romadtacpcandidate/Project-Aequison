@@ -10,6 +10,7 @@
 | G4 | CFD validation | Reproduced published benchmark and numerical uncertainty analysis | Planned |
 | G5 | Wing literature study | Documented fixed/variable wing comparison | Planned |
 | G6 | Simulation review | Verified low-speed flight-dynamics model and fault scenarios | Planned |
+| G6A | Research development documentation | Development log, subsystem reports and independent experiment review process | Documentation initialized |
 | G7 | Research review | Independent review and go/no-go for continued research | Planned |
 
-These are research milestones, not a supersonic aircraft manufacturing or flight-test schedule. Each gate requires documented reviewer sign-off.
+The research and development lifecycle is detailed in [AEQ-DEV-001](DEVELOPMENT.md); [AEQ-DEV-002](BUILD_LOG.md) records documented experiments. These are research milestones, not a supersonic aircraft manufacturing or flight-test schedule. Each gate requires documented reviewer sign-off.
