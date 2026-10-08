@@ -19,3 +19,6 @@ Research question; author/reviewer/date; references; versioned input data; model
 AEQ-MAT-001 standard-atmosphere validation; AEQ-CFD-001 published flow benchmark; AEQ-TRADE-001 wing concept review; AEQ-PROP-001 technology literature assessment.
 
 No simulation result is evidence of actual aircraft performance unless independently validated.
+
+## Published research drafts
+- [AEQ-AER-001 — Transonic Aerodynamics: Fundamentals and Literature Review](research/AEQ-AER-001-Transonic-Aerodynamics-Literature-Review.md) — Revision 0.1, draft, not independently peer approved. Introduces compressibility, critical Mach number, drag divergence, shocks, and NASA validation resources.
