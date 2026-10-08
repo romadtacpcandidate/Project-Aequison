@@ -14,3 +14,6 @@
 | G7 | Research review | Independent review and go/no-go for continued research | Planned |
 
 The research and development lifecycle is detailed in [AEQ-DEV-001](DEVELOPMENT.md); [AEQ-DEV-002](BUILD_LOG.md) records documented experiments. These are research milestones, not a supersonic aircraft manufacturing or flight-test schedule. Each gate requires documented reviewer sign-off.
+
+## First technical research publication
+- [AEQ-AER-001 — Transonic Aerodynamics Literature Review](research/AEQ-AER-001-Transonic-Aerodynamics-Literature-Review.md) — Draft Rev 0.1 created; approval and independent review pending.
