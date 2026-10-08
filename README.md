@@ -9,6 +9,10 @@ AEQUISON is an independent team-based aerospace research and experimental develo
 
 **Status:** Research and development planning. No Mach 1 capability, competition qualification, or supersonic flight authorization has been demonstrated.
 
+## First team meeting
+
+**[AEQ-PM-004 — Kickoff meeting checklist and 90-minute agenda](docs/meetings/AEQ-PM-004-Kickoff-Meeting-Checklist.md)** — a practical checklist for aligning research, competition eligibility, graduate-school ambitions, future company possibilities, safety, budget, team responsibilities and first technical deliverables. Record actual decisions and personal details in the team's private workspace.
+
 ## Project navigation
 - [Research program](docs/RESEARCH.md)
 - **[AEQ-AER-001 — Transonic Aerodynamics Literature Review](docs/research/AEQ-AER-001-Transonic-Aerodynamics-Literature-Review.md)** *(Rev 0.1, draft; independent review pending)*
