@@ -1,0 +1,15 @@
+# AEQ-PM-003 — Research Program Roadmap
+**Rev 0.1 | Draft**
+
+| Gate | Deliverable | Acceptance evidence | Status |
+| --- | --- | --- | --- |
+| G0 | Program baseline | Team responsibilities, repository, documentation policy | In progress |
+| G1 | Rules and feasibility | Eligibility checklist, approved requirements, risk register | Planned |
+| G2 | Computing baseline | Software inventory, license review, NAS backup and permissions test | Planned |
+| G3 | Atmospheric model | MATLAB code checked against reference data | Planned |
+| G4 | CFD validation | Reproduced published benchmark and numerical uncertainty analysis | Planned |
+| G5 | Wing literature study | Documented fixed/variable wing comparison | Planned |
+| G6 | Simulation review | Verified low-speed flight-dynamics model and fault scenarios | Planned |
+| G7 | Research review | Independent review and go/no-go for continued research | Planned |
+
+These are research milestones, not a supersonic aircraft manufacturing or flight-test schedule. Each gate requires documented reviewer sign-off.
