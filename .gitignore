@@ -1,0 +1,21 @@
+# Local secrets and private workspace
+.env
+.env.*
+secrets/
+private/
+internal/
+# Editor and OS state
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+# Generated temporary data
+__pycache__/
+*.pyc
+*.asv
+*.autosave
+*.vtk
+*.vtu
+*.cgns
+*.odb
