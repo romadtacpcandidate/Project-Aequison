@@ -1,4 +1,6 @@
 # AEQ-PM-005 — First Team Meeting: Facilitator Script
+
+**Master decision reference:** [AEQ-PM-006 — Project Planning and Decision Checklist](AEQ-PM-006-Project-Decision-Checklist.md). Use AEQ-PM-006 to capture the full list of decisions; this document is the optional facilitator script.
 **Project:** AEQUISON / AEQ-1  
 **Document revision:** 0.2 (draft)  
 **Meeting:** 001 — Program Kickoff  
