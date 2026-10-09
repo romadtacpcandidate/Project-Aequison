@@ -6,10 +6,10 @@
 | --- | --- |
 | Program | AEQUISON — independent aerospace research & experimental development |
 | Meeting | Kickoff / Meeting 001 |
-| Revision | 0.1 |
+| Revision | 0.2 |
 | Prepared | 2026-10-08 |
 | Status | Draft — decisions not yet approved |
-| Planned duration | 90 minutes |
+| Planned duration | 90 minutes (focused technical meeting; no introductions) |
 | Chair / note-taker / reviewer | Assign at meeting |
 | Location and date | TBD |
 | Sensitive minutes | Store in private team workspace, not this public repository |
@@ -31,7 +31,7 @@
 
 | Time | Topic | Decision / output |
 | --- | --- | --- |
-| 00:00–00:10 | Introductions, experience, availability | Draft role assignments and communications channel |
+| 00:00–00:10 | Confirm known CAD and FEA roles; identify remaining coverage | Design/CAD lead and CAD/FEA lead proposed; research gaps identified |
 | 00:10–00:20 | Project mission and success criteria | Approve or revise research-first mission statement |
 | 00:20–00:30 | Three tracks: grad research, competition, potential company use | Track separation and unresolved IP / resource issues |
 | 00:30–00:40 | Competition constraints and regulatory feasibility | Name competition compliance owner and unanswered organizer questions |
@@ -52,8 +52,8 @@
 - [ ] Agree Phase 1 does **not** claim aircraft performance or authorize high-speed testing.
 
 ### B. Team organization (10 minutes)
-- [ ] Identify program lead, research coordinator and meeting note-taker.
-- [ ] Assign a primary and backup owner for: aerodynamic literature/CFD, structures/FEA, MATLAB/flight physics, competition compliance, software/data, and safety oversight.
+- [ ] Confirm the project initiator as proposed design/CAD research lead and engineering partner as proposed CAD/FEA and structural research lead; assign a meeting note-taker.
+- [ ] Confirm the proposed division: initiator covers design/CAD; partner covers CAD and FEA. Assign or mark gaps for aerodynamic literature/CFD, MATLAB/flight physics, competition compliance, software/data, and safety oversight. Identify independent reviewers.
 - [ ] Establish an independent technical reviewer for AEQ-AER-001 and subsequent reports.
 - [ ] Confirm team meeting cadence and preferred written communications channel.
 - [ ] Define who approves document releases, financial commitments and research changes.
