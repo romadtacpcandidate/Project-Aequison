@@ -1,5 +1,7 @@
 # AEQ-PM-004 — Project Kickoff Meeting Checklist and Agenda
 
+**Companion document:** [AEQ-PM-005 — Full First-Meeting Facilitator Script](AEQ-PM-005-First-Meeting-Facilitator-Script.md). It expands this 90-minute checklist into a 120-minute moderator's script with questions and decision prompts.
+
 | Control field | Value |
 | --- | --- |
 | Program | AEQUISON — independent aerospace research & experimental development |
