@@ -11,6 +11,9 @@ AEQUISON is an independent team-based aerospace research and experimental develo
 
 ## First team meeting
 
+**[AEQ-PM-005 — Full first-meeting facilitator script](docs/meetings/AEQ-PM-005-First-Meeting-Facilitator-Script.md)** — a 120-minute read-aloud guide covering mission, team responsibilities, research, the Boom Prize, regulatory questions, budget, data management, and decisions to record.
+
+
 **[AEQ-PM-004 — Kickoff meeting checklist and 90-minute agenda](docs/meetings/AEQ-PM-004-Kickoff-Meeting-Checklist.md)** — a practical checklist for aligning research, competition eligibility, graduate-school ambitions, future company possibilities, safety, budget, team responsibilities and first technical deliverables. Record actual decisions and personal details in the team's private workspace.
 
 ## Project navigation
