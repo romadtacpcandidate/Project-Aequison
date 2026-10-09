@@ -1,0 +1,199 @@
+# AEQ-PM-005 — First Team Meeting: Facilitator Script
+**Project:** AEQUISON / AEQ-1  
+**Document revision:** 0.1 (draft)  
+**Meeting:** 001 — Program Kickoff  
+**Duration:** 120 minutes (can be split into two sessions)  
+**Facilitator:** To be assigned  
+**Minute-taker:** To be assigned  
+**Meeting date / attendance:** Record privately
+
+> **Use:** Read the italicized *Say* sections aloud as a starting script; use the **Ask**, **Decide**, and **Record** prompts to facilitate. Nothing below represents an approved team decision. Record names, contact details, internal budgets, IP agreements, and sensitive designs in the private workspace—not in this public file.
+
+## Before everyone joins (5–7 minutes of preparation)
+Open these materials:
+- [Kickoff agenda and checklist](AEQ-PM-004-Kickoff-Meeting-Checklist.md)
+- [Program overview](../RESEARCH.md)
+- [Development process](../DEVELOPMENT.md)
+- [Competition compliance](../COMPETITION.md) and [official Boom Prize rules](https://boomsupersonic.com/prize)
+- [Research roadmap](../ROADMAP.md)
+- [Documentation control](../DOCUMENT_CONTROL.md)
+- [Safety and scope](../SAFETY.md)
+- [AEQ-AER-001 literature review](../research/AEQ-AER-001-Transonic-Aerodynamics-Literature-Review.md)
+
+Prepare a private decision log and action log. Nominate someone other than the facilitator to capture exact decisions. If this is being recorded, obtain everyone's consent and agree on secure retention before starting.
+
+## 00:00–00:10 — Opening, introductions, and objectives
+
+**Say:** *“Welcome to AEQUISON. This is our first formal team meeting. We're here to start a legitimate, evidence-driven aerospace research program studying the engineering challenges around Mach 1. We also want to evaluate participating in the Boom Prize. The research project has value on its own, even if a qualifying aircraft turns out to be impractical. Today we are not selecting an engine or approving a flight-ready design. We are agreeing on the mission, the way we'll work, the evidence we'll require, and who is accountable for the first tasks.”*
+
+**Ask:** “What expertise, resources, and time can each of us reliably contribute? Which workstream are you most interested in? What concerns should we surface early?”
+
+**Decide:** Facilitator, minute-taker, meeting cadence, communications channel, and action tracking method.
+
+**Record privately:** Attendees; interests and availability; unfilled expertise; meeting ownership.
+
+## 00:10–00:25 — Define the program mission and success
+
+**Say:** *“Our current working mission is to investigate transonic flight through repeatable calculations, published benchmark replication, structural research, and controlled experimental methods. The Boom Prize is a separate competition objective. We need success criteria for the research that don't depend on winning.”*
+
+**Ask:**
+- What would count as a successful research year even without competition qualification?
+- Are our priorities technical publications, hands-on experimental learning, graduate research, the prize, or some combination?
+- Should extended low-speed loiter be a core research question or a secondary concept?
+- What are the current unknowns we must not pretend are solved?
+
+**Decide:** Approve or revise a one-paragraph research mission and 3–5 measurable Phase 1 outcomes.
+
+**Record:** AEQ-PM mission decision; what is explicitly outside Phase 1 scope.
+
+## 00:25–00:40 — Competition, academic, and future-business boundaries
+
+**Say:** *“We want to evaluate the prize seriously, but its eligibility, funding, verification, and testing rules are external constraints. We won't assume our software licenses, university resources, personal equipment, or future commercial uses are automatically permitted.”*
+
+**Ask:**
+- Who will own a current-version copy of official competition rules and change notifications?
+- Which rules are verified, and which require clarification directly from Boom?
+- What is permitted for donated materials, university software, academic facilities, personal funds and any commercial affiliation?
+- How will contributions, authorship, research ownership, confidentiality and potential future use be documented?
+- What is the intended relationship, if any, between AEQUISON and ORYJIN?
+
+**Decide:** Appoint competition/eligibility owner; assign a written question list to organizers; identify qualified help for IP and licensing questions.
+
+**Record:** Rule source/date; open interpretations; responsible contact and follow-up date. Do not claim organizer approval based on assumptions.
+
+## 00:40–01:00 — Research workstreams and technical questions
+
+**Say:** *“We are choosing what to investigate first—not choosing a final aircraft configuration. Our first results should be independently reproducible, with sources and uncertainty documented.”*
+
+Discuss each workstream in turn:
+
+| Workstream | Starter question | First evidence |
+| --- | --- | --- |
+| Atmosphere and MATLAB | Can we reproduce published speed-of-sound and atmospheric reference tables? | Checked script, data comparison, units and error |
+| Aerodynamics and CFD | Can we reproduce a published transonic benchmark with a documented convergence study? | Source data, solver settings and comparison report |
+| Wing architecture | What does published research show about variable sweep versus fixed alternatives and mass/endurance tradeoffs? | Literature matrix with contradictory evidence noted |
+| Structures and ANSYS Mechanical | Which introductory structural benchmarks establish trust in our FEA workflow? | Independently checked benchmark result |
+| Propulsion research | What broad air-breathing technologies have relevant operating constraints and evidence gaps? | Neutral literature trade report |
+| Flight dynamics | Can we simulate and validate conventional low-speed dynamics, disturbances and sensor uncertainty? | Reproducible subsonic model tests |
+
+**Ask:** “Which research questions can we answer with existing tools? Which claims depend on data we do not have? Who can independently review each other's work?”
+
+**Decide:** Rank the first three research deliverables and assign an author/reviewer pair to each.
+
+**Record:** Deliverable IDs, acceptance evidence, dependencies, and review dates.
+
+## 01:00–01:15 — Safety, regulatory reality and stop-work authority
+
+**Say:** *“Simulation is not proof of flight safety. We currently have no authorization for supersonic operations. Any physical work must pass the applicable legal and independent safety reviews. The team must be able to stop unsafe work without pressure to meet a prize deadline.”*
+
+**Ask:** 
+- Who has explicit stop-work authority?
+- Who checks applicable FAA rules and any test-site permissions?
+- What incident, near-miss and hazard reporting procedure will we use?
+- What conditions would force a no-go decision or redesign of the research program?
+- Who is qualified to provide independent safety and regulatory review?
+
+**Decide:** Safety lead; reporting channel; rule that unapproved tests do not proceed.
+
+**Record:** Risk register owner, immediate hazards, and unresolved authorization needs.
+
+## 01:15–01:30 — Documentation, computing and collaboration
+
+**Say:** *“We already have SolidWorks, Inventor, MATLAB, partner-held ANSYS Mechanical, a workstation, and TrueNAS. The goal is to make results reproducible and accessible to authorized teammates without losing version history or publishing confidential files.”*
+
+**Ask:**
+- Which MATLAB toolboxes are available? Which ANSYS license terms actually permit this work?
+- What is the authoritative location for source code, CAD masters, raw data, reports and meeting minutes?
+- Who can publish to the public GitHub repository? Who approves a release?
+- How do we handle file names, document numbers, revision history, issue assignments and pull-request review?
+- Who verifies backups by actually restoring a sample dataset?
+
+**Decide:** Public/private repository policy, NAS dataset ownership, backups, branch-review process, and document-control lead.
+
+**Record:** AEQ-IT-001 inventory owner, AEQ-CFG-001 approval, data access and backup verification tasks.
+
+## 01:30–01:40 — Money, time, and realistic feasibility
+
+**Say:** *“Our initial research budget range is $5,000–$10,000. That is not a proven budget for a qualifying supersonic vehicle. We will protect cash by purchasing only what an approved research milestone needs.”*
+
+**Ask:**
+- Is the available amount committed, estimated, or contingent?
+- What parts of the research can be completed with existing software and hardware?
+- What spending amount can an owner approve without a team review?
+- What external expertise or authorized testing resources would change program feasibility?
+- What are our schedule and personal-availability constraints?
+
+**Decide:** Initial spending cap, purchase-approval method, and first budget review date.
+
+**Record privately:** Funding commitments, cost owner, and approval authority. Do not publicly disclose individual contributions without consent.
+
+## 01:40–01:55 — Assign first actions and milestones
+
+**Say:** *“Every action leaving this room needs one accountable owner, one due date, and a clear way to verify completion. ‘Research CFD’ isn't an action. ‘Deliver a reviewed bibliography and source-data inventory for one published benchmark’ is.”*
+
+**Starter assignments — edit in the private meeting minutes:**
+
+| ID | Action | Definition of done | Owner | Due |
+| --- | --- | --- | --- | --- |
+| ACT-001 | Reconcile competition rules | Official links, date checked, unresolved questions | TBD | TBD |
+| ACT-002 | Confirm team roles and reviewers | RACI with clear approval authorities | TBD | TBD |
+| ACT-003 | Validate atmosphere model | MATLAB script, cited reference values, error table | TBD | TBD |
+| ACT-004 | Identify a public CFD benchmark | Source paper, datasets, permitted use, validation criteria | TBD | TBD |
+| ACT-005 | Review variable-sweep literature | Neutral comparison and uncertainty inventory | TBD | TBD |
+| ACT-006 | Complete software/license inventory | Version, owner, license restrictions, permitted use | TBD | TBD |
+| ACT-007 | Test TrueNAS permissions and backups | Authorized access and a documented restore test | TBD | TBD |
+| ACT-008 | Review safety and regulatory pathway | Written open questions and qualified-review needs | TBD | TBD |
+| ACT-009 | Draft authorship/IP/publication principles | Items needing team consent or professional advice | TBD | TBD |
+
+**Decide:** Owners, reviewers, due dates, and Meeting 002 date. Avoid assigning more work than the team can deliver.
+
+## 01:55–02:00 — Decision read-back and close
+
+**Say:** *“Before we end, I'm going to read back the decisions we actually made, the items we deferred, and the actions we assigned. If I misstate anything, correct me now. Our standard is evidence before claims and review before public release. We want this to remain worthwhile research whether or not we eventually qualify for the competition.”*
+
+**Read back and confirm:**
+1. Research mission and program scope
+2. Competition eligibility questions and owner
+3. Research deliverables and reviewer assignments
+4. Safety lead and stop-work process
+5. Documentation and data-sharing rules
+6. Approved spending process
+7. Action owners, due dates and next meeting
+
+**Record:** Accepted / deferred / disputed decisions and the date of next review.
+
+## Within 24 hours after the meeting
+- [ ] Write accurate private minutes; distinguish proposals from actual decisions.
+- [ ] Request corrections from attendees.
+- [ ] Enter approved decisions into the decision log, with evidence.
+- [ ] Create GitHub issues for approved non-sensitive action items.
+- [ ] Update the roadmap only where the team approved a change.
+- [ ] Update the private RACI, risks, budget, and evidence registers.
+- [ ] Publish a short public meeting summary **only after publication approval**.
+
+---
+
+### Simple private meeting-minutes template
+
+**Date / start–end / location:** TBD  
+**Attendees:** TBD  
+**Chair / minutes / reviewer:** TBD
+
+**Approved decisions**  
+| ID | Decision | Reason | Approver(s) | Reference |
+| --- | --- | --- | --- | --- |
+| DEC-001 | TBD | TBD | TBD | TBD |
+
+**Open questions**  
+| ID | Question | Owner | Answer needed by |
+| --- | --- | --- | --- |
+| OPEN-001 | TBD | TBD | TBD |
+
+**Actions**  
+| ID | Action | Deliverable / done criteria | Owner | Reviewer | Due |
+| --- | --- | --- | --- | --- | --- |
+| ACT-001 | TBD | TBD | TBD | TBD | TBD |
+
+**Next meeting:** TBD
+
+*This script is a facilitator aid. It does not assert that the team has agreed to any proposed decision or that regulatory approvals have been obtained.*
