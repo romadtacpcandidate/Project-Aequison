@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/aequison-hero.svg" alt="AEQUISON original conceptual aerospace research banner" width="100%"></p>
+<p align="center"><img src="hero%20banner.png" alt="AEQUISON Mach 1 drone research concept banner" width="100%"></p>
 
 # AEQUISON
 ### AEQ-1 | Aerospace Research & Experimental Development
