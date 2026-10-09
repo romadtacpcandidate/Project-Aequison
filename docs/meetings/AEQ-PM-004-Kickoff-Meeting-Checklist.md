@@ -1,5 +1,7 @@
 # AEQ-PM-004 — Project Kickoff Meeting Checklist and Agenda
 
+**Decision reference:** [AEQ-PM-006 — Project Planning and Decision Checklist](AEQ-PM-006-Project-Decision-Checklist.md). Use this as the master list of topics and decisions; this file remains a shorter timed agenda.
+
 **Companion document:** [AEQ-PM-005 — Full First-Meeting Facilitator Script](AEQ-PM-005-First-Meeting-Facilitator-Script.md). It expands this 90-minute checklist into a 120-minute moderator's script with questions and decision prompts.
 
 | Control field | Value |
