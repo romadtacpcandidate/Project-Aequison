@@ -11,6 +11,9 @@ AEQUISON is an independent team-based aerospace research and experimental develo
 
 ## First team meeting
 
+**[AEQ-PM-006 — Project Planning and Decision Checklist](docs/meetings/AEQ-PM-006-Project-Decision-Checklist.md)** — the main 17-topic decision reference, including questions, decision outcomes, ownership, and first-month action planning.
+
+
 **[AEQ-PM-005 — Full first-meeting facilitator script](docs/meetings/AEQ-PM-005-First-Meeting-Facilitator-Script.md)** — a 120-minute read-aloud guide covering mission, team responsibilities, research, the Boom Prize, regulatory questions, budget, data management, and decisions to record.
 
 
